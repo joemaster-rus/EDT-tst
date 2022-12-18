@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a114fa9a-181e-4bcf-95a9-85a10e7961e2">
+  <producedTypes>
+    <objectType typeId="2f56a610-0f5f-4bab-8a99-5520c0e81cae" valueTypeId="41004ebd-21cd-4323-95fa-3c62b2b57653"/>
+    <refType typeId="cb7dcb5c-6aaa-4f6f-ac1b-f351991bcd62" valueTypeId="bb84d07d-da60-4881-adb0-78903965a56f"/>
+    <selectionType typeId="991b6e5a-8e36-4f51-a09e-e18e5d2c6ea6" valueTypeId="41b84f09-89ce-4419-b7ce-72a3a058fcb5"/>
+    <listType typeId="8d90fd8e-69f0-41f6-9d8f-c06758979e3e" valueTypeId="7d68c599-86ee-47ec-a129-c8dbe5e19a4a"/>
+    <managerType typeId="f424f390-d0aa-469f-8838-bba37273070c" valueTypeId="4c05f877-71e4-4320-bb32-53657e2acad1"/>
+  </producedTypes>
+  <name>НСИ</name>
+  <synonym>
+    <key>ru</key>
+    <value>НСИ</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.НСИ.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.НСИ.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>НСИ</value>
+  </objectPresentation>
+  <listPresentation>
+    <key>ru</key>
+    <value>НСИ</value>
+  </listPresentation>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
